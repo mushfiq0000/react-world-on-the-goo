@@ -1,2 +1,2 @@
 - Click the [netlifyLink](https://silver-zabaione-9a3d0b.netlify.app/) 
-- Click the [surgeLink](amazing-prose.surge.sh) 
+- Take the surgeLink ==> [amazing-prose.surge.sh] 
